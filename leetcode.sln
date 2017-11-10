@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode", "leetcode\leetcode.vcxproj", "{417F9615-B014-4CBD-81A3-939B53B4619A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "two_sun", "leetcode\leetcode.vcxproj", "{417F9615-B014-4CBD-81A3-939B53B4619A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "add_two_numbers", "add_two_numbers\add_two_numbers.vcxproj", "{CEE51CD9-86C3-49AB-BF87-8358F2783895}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{417F9615-B014-4CBD-81A3-939B53B4619A}.Release|x64.Build.0 = Release|x64
 		{417F9615-B014-4CBD-81A3-939B53B4619A}.Release|x86.ActiveCfg = Release|Win32
 		{417F9615-B014-4CBD-81A3-939B53B4619A}.Release|x86.Build.0 = Release|Win32
+		{CEE51CD9-86C3-49AB-BF87-8358F2783895}.Debug|x64.ActiveCfg = Debug|x64
+		{CEE51CD9-86C3-49AB-BF87-8358F2783895}.Debug|x64.Build.0 = Debug|x64
+		{CEE51CD9-86C3-49AB-BF87-8358F2783895}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEE51CD9-86C3-49AB-BF87-8358F2783895}.Debug|x86.Build.0 = Debug|Win32
+		{CEE51CD9-86C3-49AB-BF87-8358F2783895}.Release|x64.ActiveCfg = Release|x64
+		{CEE51CD9-86C3-49AB-BF87-8358F2783895}.Release|x64.Build.0 = Release|x64
+		{CEE51CD9-86C3-49AB-BF87-8358F2783895}.Release|x86.ActiveCfg = Release|Win32
+		{CEE51CD9-86C3-49AB-BF87-8358F2783895}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

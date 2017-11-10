@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{417F9615-B014-4CBD-81A3-939B53B4619A}</ProjectGuid>
-    <RootNamespace>leetcode</RootNamespace>
+    <ProjectGuid>{CEE51CD9-86C3-49AB-BF87-8358F2783895}</ProjectGuid>
+    <RootNamespace>add_two_numbers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
-    <ProjectName>two_sun</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -112,10 +111,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="two_sum.cpp" />
+    <ClInclude Include="addTwoNumbers.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="two_sum.h" />
+    <ClCompile Include="addTwoNumbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
