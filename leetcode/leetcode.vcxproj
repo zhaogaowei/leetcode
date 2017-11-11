@@ -23,7 +23,7 @@
     <ProjectGuid>{417F9615-B014-4CBD-81A3-939B53B4619A}</ProjectGuid>
     <RootNamespace>leetcode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
-    <ProjectName>two_sun</ProjectName>
+    <ProjectName>1_two_sun</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
