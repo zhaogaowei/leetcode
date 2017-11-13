@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{176EBB5D-1066-4948-8F50-C709C828BBCF}</ProjectGuid>
-    <RootNamespace>My4_MedianofTwoSortedArrays</RootNamespace>
+    <ProjectGuid>{67E06688-63EC-44B5-8B33-53D5485F944E}</ProjectGuid>
+    <RootNamespace>My5_LongestPalindromicSubstring</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -111,10 +111,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Median_of_Two_Sorted_Arrays.cpp" />
+    <ClInclude Include="Longest Palindromic Substring.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Median_of_Two_Sorted_Arrays.h" />
+    <ClCompile Include="Longest Palindromic Substring.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
